@@ -1,0 +1,13 @@
+{
+    "medicine": {
+        "Id": 5,
+        "molecularFomula": "C20H25ClN2O5.C6H6O3S",
+        "IUPAC_Name": "(RS)-3-ethyl 5-methyl 2-[(2-aminoethoxy)methyl]-4-(2-chlorophenyl)-6-methyl-1,4-dihydropyridine-3,5-dicarboxylate",
+        "Description": "sold under the brand name Norvasc among others, is a calcium channel blocker medication used to treat high blood pressure and coronary artery disease. It is taken by mouth.",
+        "Mechanism": "Amlodipine is considered a peripheral arterial vasodilator that exerts its action directly on vascular smooth muscle to lead to a reduction in peripheral vascular resistance, causing a decrease in blood pressure.",
+        "Uses": "Amlodipine is used alone or in combination with other medications to treat high blood pressure in adults and children 6 years and older. It is also used to treat certain types of angina (chest pain) and coronary artery disease (narrowing of the blood vessels that supply blood to the heart).",
+        "adverse_Effect": "swelling of the hands, feet, ankles, or lower legs,\nheadache,\nupset stomach,\nnausea,\nstomach pain,\ndizziness or light-headedness,\ndrowsiness,\nexcessive tiredness,\n",
+        "drugName": "amlodipine",
+        "drugImage": "iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAxlBMVEX19fX4+Pj7+/vs7OzJycm8vLz1+Pi2trb39/XMzMz////p6emoqKjv7+/1/f2/v7/T09OwsLDj4+Pb29v7+/X89/z239/4wcH17++ioqLx8fXr8uuQ3ZDJ6smY35jh7+HW7db2zMz6jY36f3/4pKT7cXH5rq731dX7m5vjzc3m1dXu1NTlra336en7lJT4tLTc3OrPz/Glpfna2vbh4faysvnFxe8TE/58fPtGRv3q6vbEuLiZra2vvr7G0dGfn/q+vvgoKP7VTp+hAAADPUlEQVRoge2Ya0PaMBSGc9I2TWna5oJAYVOqTJxDQOecOmTu//+ppcilEcHZpvvE+VIC6dP0cPLmTRA6xCEO8Z8DoD50I/FrwgPmaRixANeAx0oo5UJ+wbbRoeAh45Cn3WWhVTx4ieO7y4QA8nybqXFc5KENsOFZZGt4sUogcC3DCy3wDvC98F6vVx/80+fjIxtws1oAo+ik3zs+sQCPfORHhToXOvx+76jfP6nMRqCE1LlYzlCHKS1j9iYp6DyHIlhoi+fZAZM4Xn3U0hVIF2NuS7ZIdnq2pmvRZUqLY8MKWsMHrS8buM5zIN5YieKYlMOfD40bnWCbTS7GrTJ0krXM+8I34OisdV4OPhy+ByekPeiUYCPy9fLSoG3DSfsqi1GZgIDz/XBQ30rl5F/goIKkHPp9OEjXdz6AQ4a2BlwZbScwZ6eXhEW1fAfNRNBY94EGS9NNUysAYwVHBMCEKPYOxG5hAJQIjFWqlv8Q4amDUbqScuwID2vAUlpyc6S/Y3zVW7HdVgywu7gPIBhd5VP6asTzzliK/ArIXzgXPQI/v2olkPnPwEcdrW8EjfhujwqbBwPKyHjcyVY5zIUQErFaLMARLgqZgpX/mqDJOBt2dmcc3KJ7Ja1BO9uUL0CSysIrY5kmhWGS+Iyc7p1I5juR84Hxa2RWCTatBckuPiRdxByJE3gFOvju694lZ+kSnhThlk3RAf423KsPHgWyWKrSJlybikZR/TCTtrZcWlZcmSqgL02qlUK+CEx1NLhaVvQOV0yblFLUnDKOASLt7ariNXSZAqDXN4/fb+mPO7qAYpk/pBJbMrW2b7RJf953m3TVbnCmqtCxKA6Odu8fEN20AWQFtq5ooypo95Hu6loC7pvwx+v64Npb2GMj+GXC5/PIHpxMzFVgNrMJb5srEp/bY2+Zf5snXK+2LVaDxMaGy2ZANMniuBa2dnd+p4ph2MeW9taDLTZP6jtZBd/WPvkAP8ArBbYNl9F6DcNhahcOT0/zl0lJUWL1CHsBl3NKm9qy3Qm7J/vLmHZ/P9Pn23oUi9I/D82mRWtixs19bWjt125rhIfT+uB691MjezarEf70VCM8tGljD7EdfwE56ysIpsqc9AAAAABJRU5ErkJggg=="
+    }
+}
